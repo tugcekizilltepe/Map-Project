@@ -1,4 +1,4 @@
-# OpenStreetMap-Project
+# Map-Project
 ## Introduction
 In this project, I implemented several data structures such as quadtrees, ternary search trees and algorithms such as Dijkstra's shortest path algorithm for routing on a real-world problem. Map data is freely available from the [OpenStreetMap project](https://www.openstreetmap.org/). I built the backend.
 
